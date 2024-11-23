@@ -38,7 +38,7 @@ I’m constantly exploring new aspects of **Machine Learning** and **AI**:
 
 ### 🤝 Let’s Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aniket-boryal-23757b21b/))  
+- **LinkedIn**: https://www.linkedin.com/in/aniket-boryal-23757b21b/
 - **Email**: aniketboryal@gmail.com
 
 Let’s innovate and shape the future of AI together! 🚀
