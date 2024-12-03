@@ -2,7 +2,7 @@
 
 I'm **Aniket Boryal**, a 2024 graduate enthusiastic about **Machine Learning**, **Deep Learning**, and **Generative AI**. My GitHub is a collection of my learning journey, projects, and passion for cutting-edge technologies. Currently, I’m pursuing a **Machine Learning course** to deepen my expertise and build innovative solutions in AI.
 
----
+------
 
 ### 💼 About Me
 
