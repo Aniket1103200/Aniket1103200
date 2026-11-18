@@ -1,46 +1,30 @@
-# 👋 Hello, Welcome to My GitHub!
+# Hi, I'm Aniket Boryal 👋
 
-I'm **Aniket Boryal**, a 2024 graduate enthusiastic about **Machine Learning**, **Deep Learning**, and **Generative AI**. My GitHub is a collection of my learning journey, projects, and passion for cutting-edge technologies. Currently, I’m pursuing a **Machine Learning course** to deepen my expertise and build innovative solutions in AI.
+**M.Sc. Computer Science student at Universität Paderborn** (focus: Data Science and AI/ML), looking for a **Werkstudent** position in Data Science, AI/ML or Software Engineering in Germany.
 
-------
+- 💼 **1.5+ years at LTM (formerly LTIMindtree)**: built generative AI assistants (RAG with LangChain, FAISS and FastAPI; Microsoft Copilot Studio; Azure AI Foundry agents with Azure OpenAI), Power BI dashboards and SAP ABAP solutions
+- 🎓 B.E. Computer Engineering, Savitribai Phule Pune University (CGPA 8.49/10)
+- 🇩🇪 Learning German (A2, currently B1)
 
-### 💼 About Me
+## 🛠️ Tech Stack
+- **Generative AI:** RAG, LangChain, HuggingFace embeddings, FAISS, Azure OpenAI, Azure AI Foundry, Copilot Studio
+- **Machine Learning:** scikit-learn, NLTK (classification, regression, clustering, NLP)
+- **Data & BI:** Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter, Power BI, SQL (MySQL)
+- **Software Engineering:** Java, Spring Boot, JPA/Hibernate, FastAPI, REST APIs, Git
 
-- 🎓 **Fresher 2024** graduate passionate about applying ML and AI in real-world applications
-- 📚 Currently learning **Machine Learning**, **Deep Learning**, and excited to explore **Generative AI**
-- 👀 Looking for opportunities to contribute to innovative projects in AI and ML  
-- 🚀 Eager to collaborate with like-minded professionals to create the future of AI
+## 📂 Repositories
+**Machine learning practice** (projects from the Udemy course *Python for Data Science and Machine Learning Bootcamp*):
 
----
+| Project | Technique | Result |
+|---|---|---|
+| [SMS Spam Filter](https://github.com/Aniket1103200/sms-filter-nlp) | NLP: TF-IDF + Naive Bayes | 96% accuracy |
+| [Yelp Review Classification](https://github.com/Aniket1103200/yelp-review-classification) | NLP: bag of words + Naive Bayes | 93% accuracy |
+| [Ad-Click Prediction](https://github.com/Aniket1103200/ad-behavior-analysis-logistic-regression) | Logistic regression | F1 0.91 |
+| [Titanic Survival](https://github.com/Aniket1103200/titanic-logistic-regression-analysis) | Logistic regression | 83% accuracy |
+| [Iris Classification](https://github.com/Aniket1103200/SVM-Iris-Classification_project) | SVM + GridSearchCV | 98% accuracy |
+| [University Segmentation](https://github.com/Aniket1103200/kmeans-university-segmentation) | K-Means clustering | 78% match with true labels |
+| [E-Commerce Spending](https://github.com/Aniket1103200/Linear-regression-ecommerce-analysis) | Linear regression | RMSE 8.93 |
+| [Movie Recommender](https://github.com/Aniket1103200/movie-recommender-basic) | Item-based similarity | n/a |
 
-### 🛠️ My Tech Stack
-
-- **Languages**: Python, JAVA , C , C++ , Javascript
-- **Libraries**: NumPy, Pandas, scikit-learn, TensorFlow, PyTorch
-- **Tools**: Jupyter Notebook, Git, Matplotlib
-
----
-
-### 🔍 Featured Projects
-
-- [**Linear Regression E-commerce Analysis**](https://github.com/Aniket1103200/linear-regression-project-ecommerce-analysis): An end-to-end project that uses Linear Regression to analyze and predict outcomes for an e-commerce dataset. Covers data preprocessing, model training, evaluation, and visualization.  
-- similarly i created many projects who reflect my eggerness and skills in this domain.
-
----
-
-### 🌱 What I’m Learning
-
-I’m constantly exploring new aspects of **Machine Learning** and **AI**:
-- **Current Focus**: Machine learning techniques, deep learning, generative AI
-- **Next Goal**: Applying generative AI models to solve real-world problems 
-
----
-
-### 🤝 Let’s Connect!
-
-- **LinkedIn**: https://www.linkedin.com/in/aniket-boryal-23757b21b/
-- **Email**: aniketboryal@gmail.com
-
-Let’s innovate and shape the future of AI together! 🚀
-
----
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/aniket-boryal-23757b21b/) · aniketboryal.skn.comp@gmail.com · Paderborn, Germany
